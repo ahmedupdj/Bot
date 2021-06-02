@@ -1,1 +1,1 @@
-wep:node scr/server.js
+worker: node server.js
